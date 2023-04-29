@@ -1,5 +1,5 @@
- 💻 Labolatório de Sistemas Distribuídos - C216
+ 💻 Laboratório de Sistemas Distribuídos - C216
 
-📌 Atividades propostas a fim de praticar o conteúdos ministrados das aulas teoricas.
+📌 Atividades propostas a fim de praticar os conteúdos ministrados das aulas teoricas.
 
 🎓 Dessana Siqueira Alves
