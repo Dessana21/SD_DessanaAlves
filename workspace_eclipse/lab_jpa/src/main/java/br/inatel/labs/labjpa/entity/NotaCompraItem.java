@@ -79,8 +79,7 @@ public class NotaCompraItem {
 	}
 	
 	
-	public NotaCompraItem(NotaCompra notaCompra, Produto produto,  BigDecimal valorCompraProduto,
-			@NotNull @Positive Integer quantidade) {
+	public NotaCompraItem(NotaCompra notaCompra, Produto produto,  BigDecimal valorCompraProduto, Integer quantidade) {
 		super();
 		this.notaCompra = notaCompra;
 		this.produto = produto;
